@@ -80,6 +80,13 @@ footer {
   font-size: 1.2rem;
 }
 
+footer p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: .2rem;
+}
+
 h1 {
   font-size: 2rem;
 }
@@ -128,7 +135,6 @@ button:active{
 }
 
 .uil {
-  margin-top: 0.5rem;
   font-size: 1.5rem;
 }
 
